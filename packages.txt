@@ -1,0 +1,6 @@
+vim
+neovim
+htop
+bash-completion
+grub
+efibootmgr
