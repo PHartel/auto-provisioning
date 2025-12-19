@@ -7,4 +7,3 @@ xorg-xwayland
 qt5-wayland 
 glfw-wayland
 plasma
-plasma-wayland-session
