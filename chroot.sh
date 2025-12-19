@@ -20,3 +20,18 @@ echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
 systemctl enable NetworkManager
 
 bootctl install
+
+cat <<EOF > /boot/loader/entries/arch.conf
+title   Arch Linux
+linux   /vmlinuz-linux
+initrd  /initramfs-linux.img
+options root=${DISK}2 rw
+EOF
+
+cat <<EOF > /boot/loader/loader.conf
+default arch
+timeout 3
+editor  0
+EOF
+
+echo "=== Installation complete ==="
