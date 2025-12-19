@@ -26,6 +26,11 @@ passwd
 passwd $USERNAME
 
 systemctl enable NetworkManager
+nmcli con add type ethernet ifname $NET_IFACE con-name static-enp3s0 \
+  ipv4.method manual \
+  ipv4.addresses 192.168.100.7/24 \
+  ipv4.gateway 192.168.100.1 \
+  ipv4.dns 1.1.1.1,8.8.8.8
 systemctl enable sddm
 mkdir -p /etc/sddm.conf.d
 cat <<EOF > /etc/sddm.conf.d/10-wayland.conf
