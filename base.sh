@@ -10,3 +10,4 @@ genfstab -U /mnt >> /mnt/etc/fstab
 cp chroot.sh /mnt/root/
 cp config.sh /mnt/root/
 cp packages.txt /mnt/root/
+echo "Base system installation complete."

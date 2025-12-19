@@ -5,7 +5,7 @@ source config.sh
 
 timedatectl set-ntp true
 bash network.sh
-bash mirrors.sh
+bash mirror.sh
 bash partition.sh
 bash base.sh
 
