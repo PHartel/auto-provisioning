@@ -1,6 +1,7 @@
-vim
-neovim
 htop
 bash-completion
 grub
 efibootmgr
+plasma
+plasma-wayland-session
+kde-applications-base

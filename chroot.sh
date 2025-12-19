@@ -6,6 +6,12 @@ mkinitcpio -P
 ln -sf /usr/share/zoneinfo/$TIMEZONE /etc/localtime
 hwclock --systohc
 
+cat <<EOF > /etc/vconsole.conf
+KEYMAP=$KEYMAP
+FONT=$FONT
+EOF
+
+
 sed -i "s/#$LOCALE/$LOCALE/" /etc/locale.gen
 locale-gen
 echo "LANG=$LOCALE" > /etc/locale.conf
@@ -16,8 +22,16 @@ pacman -S --noconfirm $(cat /root/packages.txt)
 
 useradd -m -G wheel $USERNAME
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
+passwd
+passwd $USERNAME
 
 systemctl enable NetworkManager
+systemctl enable sddm
+mkdir -p /etc/sddm.conf.d
+cat <<EOF > /etc/sddm.conf.d/10-wayland.conf
+[General]
+DisplayServer=wayland
+EOF
 
 bootctl install
 

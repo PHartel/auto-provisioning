@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HOSTNAME="archvm"
-USERNAME="user"
+HOSTNAME="archlinux"
+USERNAME="ph"
 TIMEZONE="Europe/Berlin"
 LOCALE="de_DE.UTF-8"
 KEYMAP="de-latin1"
