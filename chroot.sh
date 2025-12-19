@@ -1,5 +1,7 @@
 #!/bin/bash
 source /root/config.sh
+touch /etc/vconsole.conf
+mkinitcpio -P
 
 ln -sf /usr/share/zoneinfo/$TIMEZONE /etc/localtime
 hwclock --systohc
