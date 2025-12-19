@@ -18,7 +18,7 @@ echo "LANG=$LOCALE" > /etc/locale.conf
 
 echo "$HOSTNAME" > /etc/hostname
 
-pacman -S --noconfirm $(cat /root/packages.txt)
+pacman -S --needed --noconfirm $(cat /root/packages.txt)
 
 useradd -m -G wheel $USERNAME
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers

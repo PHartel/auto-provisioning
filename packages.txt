@@ -2,6 +2,9 @@ htop
 bash-completion
 grub
 efibootmgr
+wayland
+xorg-xwayland
+qt5-wayland 
+glfw-wayland
 plasma
 plasma-wayland-session
-kde-applications-base
