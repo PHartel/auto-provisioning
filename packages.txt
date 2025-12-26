@@ -1,9 +1,6 @@
-htop
-bash-completion
 grub
 efibootmgr
 wayland
-xorg-xwayland
-qt5-wayland 
-glfw-wayland
 plasma
+libva
+sddm
