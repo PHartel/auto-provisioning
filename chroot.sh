@@ -1,13 +1,13 @@
 #!/bin/bash
 source config.sh
 
-bash locales.sh
+bash /mnt/root/opt/setup/locales.sh
 
 echo "$HOSTNAME" > /etc/hostname
 
-bash packages.sh
+bash /mnt/root/opt/setup/packages.sh
 
-bash user-management.sh
+bash /mnt/root/opt/setup/user-management.sh
 
 systemctl enable NetworkManager
 nmcli con add type ethernet ifname $NET_IFACE con-name static-enp3s0 \
