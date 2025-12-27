@@ -1,5 +1,5 @@
 #!/bin/bash
-source config.sh
+source /root/opt/setup/config.sh
 
 bash /root/opt/setup/locales.sh
 

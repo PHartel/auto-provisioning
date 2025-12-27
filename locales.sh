@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source config.sh
+source /root/opt/setup/config.sh
 
 touch /etc/vconsole.conf
 mkinitcpio -P

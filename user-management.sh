@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source /root/opt/setup/config.sh
+
 useradd -m -G wheel $USERNAME
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
 passwd
