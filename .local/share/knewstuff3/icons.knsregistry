@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.18</version>
+  <rating>96</rating>
+  <downloads>2584629</downloads>
+  <installedfile>/home/ph/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2025-12-17</releasedate>
+  <summary>&lt;p>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/">Sweet&lt;/a> theme&lt;br />&lt;br />If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/">sweet-folders&lt;/a> as shown in the second screenshot&lt;br />&lt;br />&lt;b>Note&lt;/b>&lt;br />&lt;br />To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls">pull request&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2NTQxMDM5NywibyI6IjEiLCJzIjoiY2Y3YWNkNjY5M2U0NjE1YmQyOTBhZDY5MjY4ZTg5NzlhOGNhMWVmZDM0Y2M4MjRhMmZjZTk4ZTAxNzFiYjJhOTZmZWVlMDA3YjZhZmMyYmU2MjM4YTVlNTQzM2Q1MmQ4OWMwNzg0NmEzZjViMzhiYTkzN2NlMDczMzRjZGUzOWYiLCJ0IjoxNzY2MTkyNDY2LCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.LWrsNNR74J33qPWDYZTo5Fri0V86AyMac5UV-Gym8P8/candy-icons.tar.xz</payload>
+  <tags>linux,unix,original-product,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Ant-dark folders</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1640981</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>101043</downloads>
+  <installedfile>/home/ph/.local/share/icons/Ant-Dark/*</installedfile>
+  <id>1640981</id>
+  <releasedate>2021-11-12</releasedate>
+  <summary>&lt;p>Folders icons for &lt;a href="https://www.pling.com/p/1464332/">Ant-dark KDE theme&lt;/a>&lt;br />&lt;br />&lt;b>Important&lt;/b>&lt;br />&lt;br />These files only contain the folders icons, to complement it just edit the index.theme file and define the "inherits" key with your favorite icon theme e.g:&lt;br />&lt;br />&lt;/p>&lt;pre>&lt;code>Inherits=your-favorite-icon-theme,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor&lt;/code>&lt;/pre>&lt;br />&lt;br />&lt;b>Note&lt;/b>&lt;br />It is recommended to complement this folders with &lt;a href="https://store.kde.org/p/1340791">Reversal dark icons&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1640981/b927b8a20098bbf2ed222ff825e72df9b952129303d55db7ab7609476020a0e899371.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1640981/b927b8a20098bbf2ed222ff825e72df9b952129303d55db7ab7609476020a0e899371.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTYzNjc1MzcyMywibyI6IjEiLCJzIjoiMTliZDhjYTJhZjViMGYxMmNjOGYwM2I4ZGY4YjJmOTFhMzZlZDc2Yzg2OTk4ZWZlNjA0OTZlMGFiMzZmMzk0OWYwZTNjMWExZWVhYzZlYWM2N2VhN2ZjNjY5ZTllNjNhZGU2Njk4Mjk5MWUzZTk3MTkxOThhMDFkNTM1OTE0ODAiLCJ0IjoxNzY2MTkwOTIwLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.RNNg-i9goXUp318O8CPkIu1jkUC9F4r0iQs6wHj-fk8/Ant-Dark.tar.xz</payload>
+  <tags>linux,gplv3,icon-theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20250501</version>
+  <rating>93</rating>
+  <downloads>2438711</downloads>
+  <installedfile>/home/ph/.local/share/icons/Papirus/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/Papirus-Dark/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/Papirus-Light/*</installedfile>
+  <id>1166289</id>
+  <releasedate>2025-05-02</releasedate>
+  <summary>&lt;p>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />&lt;br />Papirus support hardcode-tray script:&lt;br />https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />&lt;br />Folder Color support:&lt;br />http://foldercolor.tuxfamily.org&lt;br />&lt;br />Dolphin Folder Color support:&lt;br />https://github.com/audoban/dolphin-folder-color&lt;br />&lt;br />Papirus Folders script:&lt;br />https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />&lt;br />And KDE color scheme:&lt;br />https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors&lt;br />&lt;br />ANDROID Version available here:&lt;br />https://www.pling.com/p/1662847/&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/43/80/78/1166289/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/43/80/78/1166289/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0NjE2NzEyMCwibyI6IjEiLCJzIjoiZTA4NmY5N2Q3YzkzNDNlZmM5MjNjZWQxOWYwNWY5NDk2M2UxNDgxNTVkMWIxODFmMzM3OTU3NTNkODAxYmEyMGU1YjFlY2FkMWZmMDUwNGVjNjlmOWFjNGU1OGQ1OGI0NDQxMzZiZDdmNDZiMTI1MjcyNmE3NWVmMzdhNjUwMzQiLCJ0IjoxNzY2NTk1MzkzLCJzdGZwIjpudWxsLCJzdGlwIjoiODYuMTAzLjQ5LjMifQ.z0dWXWE4RQXd6eepu-mumGqOcM8fxaAViMoVdZxUx60/papirus-icon-theme-20250501.tar.gz</payload>
+  <tags>icon-theme,icons,gplv3,papirus,original-product,linux,material,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Kora</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>tarma</author>
+  <homepage>https://store.kde.org/p/1256209</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>94</rating>
+  <downloads>737285</downloads>
+  <installedfile>/home/ph/.local/share/icons/kora/*</installedfile>
+  <id>1256209</id>
+  <releasedate>2025-12-17</releasedate>
+  <summary>&lt;p>&lt;b>Kora&lt;/b> icon theme for dark and light UI.&lt;br />&lt;br />&lt;em>&lt;b>kora&lt;/b> - main icon theme with blue folder/places icons&lt;br />&lt;br />&lt;/em>&lt;b>kora-grey&lt;/b> - icon theme with grey folder/places icons&lt;br />&lt;br />&lt;em>&lt;b>kora-green&lt;/b> - icon theme with green folder/places icons&lt;br />&lt;br />&lt;/em>&lt;b>kora-yellow&lt;/b> - icon theme with yellow folder/places icons&lt;br />&lt;br />Copy &lt;b>kora theme folders&lt;/b>  to one of the following folders:&lt;br />&lt;br />    /usr/share/icons/ - icons available system-wide&lt;br />    $HOME/.local/share/icons/ - icons only available to local user&lt;br />&lt;br />_&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>&lt;strong>__&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />Check out free wallpapers or support on:&lt;br />&lt;a href="https://ko-fi.com/tarmakofi">Kofi&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/50/97/86/1256209/korla-thumb31.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/50/97/86/1256209/korla-thumb31.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2NTk3MzI5MiwibyI6IjEiLCJzIjoiNDVjYTE2ZjA5YmIwMTE5MmQzNmVmNTAxZjdlY2RhM2MyOWMyOWFkM2Y5OWJkN2NiNTA5ZjMwNGIyZGRkYTEyYWM1YjcyOGJmOWJiM2Y5OThiMGZkMGExMTI4NzQwZDU2OWE4MzhhYTIwM2YxNTNjNTllZDkwZTRjMmNiMjk2ZmQiLCJ0IjoxNzY2MTkyNTEzLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.--av4vQUllK5NuYb1pBEwq9H3BLsz_i6bw-bM-huPNc/kora-2-0-0.tar.xz</payload>
+  <tags>original-product,linux,kora,bikass,gplv3,icon-pack,icon-theme,unix,tarma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>WhiteSur icon theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1405756</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>1528144</downloads>
+  <installedfile>/home/ph/.local/share/icons/WhiteSur/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/WhiteSur-dark/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/WhiteSur-light/*</installedfile>
+  <id>1405756</id>
+  <releasedate>2025-11-15</releasedate>
+  <summary>&lt;p>WhiteSur icon theme for linux desktops&lt;br />----------------------------&lt;br />You can use this icon theme with:&lt;br />----------------------------&lt;br />&lt;br />&lt;b> Gtk theme &lt;/b>&lt;br />&lt;br />WhiteSur-gtk-theme: &lt;br />&lt;a href="https://www.pling.com/p/1403328/">&lt;/a>&lt;a href="https://www.pling.com/p/1403328/">https://www.pling.com/p/1403328/&lt;/a>&lt;br />---------------------------&lt;br />&lt;br />&lt;b> Kde theme &lt;/b>&lt;br />&lt;br />WhiteSur-kde-theme: &lt;br />Dark version: &lt;a href="https://www.pling.com/p/1400409/">&lt;/a>&lt;a href="https://www.pling.com/p/1400409/">https://www.pling.com/p/1400409/&lt;/a>&lt;br />Light version: &lt;a href="https://www.pling.com/p/1398840/">&lt;/a>&lt;a href="https://www.pling.com/p/1398840/">https://www.pling.com/p/1398840/&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MzIxNzIzNiwibyI6IjEiLCJzIjoiZjVlZTAyYjY3Zjk5N2M0MWNkMDZiYTYzMmY5NzA0NzY3ZWM1Yzk5OWJhMWY2ZjdmMDI3MWRlMTMzYTdlMDhiMDk5MGQ1OGJmZmIwZTEyZmYxNDJlNDkzZWMzODNlNjJiYzZiYTliNmMyZDY3ZjFiY2U2N2RiMDYyMTZmODY0ZjIiLCJ0IjoxNzY2MTkwNzUyLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.E58W3kwqWFC-pyaLvDKH65tnCooUL1MUJ-YI1GWfAMk/01-WhiteSur.tar.xz</payload>
+  <tags>unix,linux,icon-theme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>1973685</downloads>
+  <installedfile>/home/ph/.local/share/icons/Tela-dark/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/Tela/*</installedfile>
+  <installedfile>/home/ph/.local/share/icons/Tela-light/*</installedfile>
+  <id>1279924</id>
+  <releasedate>2025-12-05</releasedate>
+  <summary>&lt;p>&lt;b> Tela Icon Theme &lt;/b>&lt;br />A flat colorful Design icon theme&lt;br />You can use this theme on all popular desktops&lt;br />------------------------------&lt;br />&lt;b> Full circular version &lt;/b>&lt;br />Tela-circle: &lt;br />&lt;a href="https://www.gnome-look.org/p/1359276/">&lt;/a>&lt;a href="https://www.gnome-look.org/p/1359276/">https://www.gnome-look.org/p/1359276/&lt;/a>&lt;br />------------------------------&lt;br />&lt;b> Based on &lt;/b>&lt;br />1. numix-icon-theme-circle: &lt;br />&lt;a href="https://github.com/numixproject/numix-icon-theme-circle">&lt;/a>&lt;a href="https://github.com/numixproject/numix-icon-theme-circle">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />2. papirus-icon-theme: &lt;br />&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">&lt;/a>&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />3. paper-icon-theme: &lt;br />&lt;a href="https://github.com/snwh/paper-icon-theme">&lt;/a>&lt;a href="https://github.com/snwh/paper-icon-theme">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />------------------------------&lt;br />&lt;br />&lt;b> Supported desktops &lt;/b>&lt;br />&lt;br />&lt;b>1.&lt;/b> Gnome&lt;br />&lt;b>2.&lt;/b> Kde Plasma&lt;br />&lt;b>3.&lt;/b> Budgie&lt;br />&lt;b>4.&lt;/b> Cinnamon&lt;br />&lt;b>5.&lt;/b> Elementary Pantheon&lt;br />&lt;b>6.&lt;/b> Xfce4&lt;br />&lt;b>7.&lt;/b> Mate&lt;br />&lt;b>...&lt;/b>&lt;br />&lt;br />------------------------------&lt;br />&lt;b>Github&lt;/b>: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme">&lt;/a>&lt;a href="https://github.com/vinceliuice/Tela-icon-theme">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />&lt;br />------------------------------&lt;br />&lt;b>Donation&lt;/b>: &lt;a href="https://www.paypal.me/vinceliuice">&lt;/a>&lt;a href="https://www.paypal.me/vinceliuice">https://www.paypal.me/vinceliuice&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2NDkxMDc0MCwibyI6IjEiLCJzIjoiMGRiNmI0NTYxYTRlZjlhZjY1ZDY1ZDVhOWM4ZmM2ZjQ1YjAxOTMwMzUyY2E2YjBiODcyYTVjZDYxMjk2MjU0YmM2M2M2MTM5ZDQ0MDNkNjlkZDNiYTRkZmI0YjcwNDM2MmNiMDBjMzFhOGU2OTRhNjQyYmI0OWE4ZmI3N2NjZDEiLCJ0IjoxNzY2MTkxMTkyLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.1gBcLEd0m9TobBCfhFJDDg6QUu3yfMp9OBx6zsxl-Fo/01-Tela.tar.xz</payload>
+  <tags>original-product,gplv3,icon-theme,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>865633</downloads>
+  <installedfile>/home/ph/.icons/WhiteSur-cursors/*</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>&lt;p>WhiteSur cursors&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU5NzIxOTU1MCwibyI6IjEiLCJzIjoiYzY5Y2M3YmY3OGQ1Y2QxZjM1ZGJiZjc1ZTE5ZDE5ODZmNjhjZDU5NWE0ZDI4MGVhNTVkNjNiNzg0YWEzN2Y0NzVmMDdhNWM0NGNkNzE4N2RkNWIwNzQyZjkzMmYzMDYwZGZmYThmODE3ZjQyMTkxZTU2NjcwMmYzNjI4NjdjYTEiLCJ0IjoxNzY2MTkwNzU1LCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.cboMqfXUljnuLqbKO6njD2FfY5S1XU-RuPgwUQknxCU/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,unix,linux,gplv3,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Layan cursors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1365214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>501093</downloads>
+  <installedfile>/home/ph/.icons/Layan-border-cursors/*</installedfile>
+  <id>1365214</id>
+  <releasedate>2020-03-30</releasedate>
+  <summary>&lt;p>Layan cursors theme for linux desktop&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU4NTExNDg0OCwibyI6IjEiLCJzIjoiZjRjNGVjNjhhMTE5NmVhNTgwZDAzN2NmZjEzYjFmZTQ5MzM4ZGNiYjYxNTk5NWY2NGNlYTQwNTA3ZGIxZTI5MTE5YzdlNmY3OWJlMTQ4NmE1NDliYWY3MmM3YmE3MzAzYzNkZmIyYTU4MzdmZDI1MTI1NjE5MzFiOWNlYmE5MGMiLCJ0IjoxNzY2MTkxMTk0LCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.OevwuWyn6t49nrAOXTNqnI51juZQrWVQ5SXZhjwm0Js/01-Layan-border-cursors.tar.xz</payload>
+  <tags>gplv3,cursor,linux,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

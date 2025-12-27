@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Apple MacOS [WhiteSur-Dark]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400424</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>83</rating>
+  <downloads>0</downloads>
+  <installedfile>/home/ph/.local/share/plasma/look-and-feel/com.github.vinceliuice.WhiteSur-dark/</installedfile>
+  <id>1400424</id>
+  <releasedate>2025-11-05</releasedate>
+  <summary>&lt;p>MacOS big sur theme for kde plasma&lt;br />-----------------------&lt;br />&lt;b>Kvantum theme:&lt;/b> &lt;a href="https://www.pling.com/p/1398841/">&lt;/a>&lt;a href="https://www.pling.com/p/1398841/">https://www.pling.com/p/1398841/&lt;/a>&lt;br />-----------------------&lt;br />&lt;b>Icon theme:&lt;/b> &lt;a href="https://www.pling.com/p/1405756/">&lt;/a>&lt;a href="https://www.pling.com/p/1405756/">https://www.pling.com/p/1405756/&lt;/a>&lt;br />-----------------------&lt;br />&lt;b>Cursors theme:&lt;/b> &lt;a href="https://www.pling.com/p/1355701/">&lt;/a>&lt;a href="https://www.pling.com/p/1355701/">https://www.pling.com/p/1355701/&lt;/a>&lt;br />-----------------------&lt;br />&lt;b>Wallpaper:&lt;/b> &lt;a href="https://www.pling.com/p/1398833/">&lt;/a>&lt;a href="https://www.pling.com/p/1398833/">https://www.pling.com/p/1398833/&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1400424/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1400424/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MjM1MjcyNCwibyI6IjEiLCJzIjoiYjY4YzVlMmNmMzdhZWY3MDQ0NDBiZWVkMjlmZDBjZGRjNzNmODBlMDFhMzNjZTc3Y2UwOTA3YjBhMDA2ZDRkYWU5ZDE5YjQwYmZhMGM2NzZjNTRlYWVhNWQwNDA2YmNkNmI1YzFkYmFhZDExNzE0ODM3NGZiMDg1ZmE5OTVlYjkiLCJ0IjoxNzY2MTkwNzQwLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.LuYk5FlW9VJP1-HX93WEqa74z-Z-sKt6w2UJzIqCmRE/com.github.vinceliuice.WhiteSur-dark.tar.gz</payload>
+  <tags>original-product,plasma,plasma##majorversion=6,theme,unix,linux,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="722">
+  <name>Layan look and feel theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325243</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>0</downloads>
+  <installedfile>/home/ph/.local/share/plasma/look-and-feel/com.github.vinceliuice.Layan/</installedfile>
+  <id>1325243</id>
+  <releasedate>2025-11-27</releasedate>
+  <summary>&lt;p>Layan modern and elegant design theme for kde desktop&lt;br />---------------------&lt;br />For better experience you need this&lt;br />&lt;b>kvantum theme&lt;/b>: Layan &lt;br />&lt;a href="https://www.pling.com/p/1325246/">&lt;/a>&lt;a href="https://www.pling.com/p/1325246/">https://www.pling.com/p/1325246/&lt;/a>&lt;br />---------------------&lt;br />&lt;b>gtk theme&lt;/b>: Layan&lt;br />&lt;a href="https://www.pling.com/p/1309214/">&lt;/a>&lt;a href="https://www.pling.com/p/1309214/">https://www.pling.com/p/1309214/&lt;/a>&lt;br />---------------------&lt;br />&lt;b>Icon theme&lt;/b>: Tela icon theme&lt;br />&lt;a href="https://www.pling.com/p/1279924/">&lt;/a>&lt;a href="https://www.pling.com/p/1279924/">https://www.pling.com/p/1279924/&lt;/a>&lt;br />---------------------&lt;br />&lt;b>Wallpaper&lt;/b>: Layan&lt;br />&lt;a href="https://www.pling.com/p/1309218/">&lt;/a>&lt;a href="https://www.pling.com/p/1309218/">https://www.pling.com/p/1309218/&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2NDI1MjQ5MCwibyI6IjEiLCJzIjoiODkzMTQwYTYzYjZkM2VjMThjZmNhOGE0NmUwNjIyMWFlZmQ4MGUwY2ZlNWVmYTQ1NmY1ZGYxZjFhMzQ4MDc4NGJjN2Y3MzRlM2YyYzA1MmQ1YzA5MWM0NTE1MzFhYzQ0MTAyNDI1Njk1YzQwYjRkMmFmNWNiMTlhZmQ5NWY2YmMiLCJ0IjoxNzY2MTkxMzExLCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.EpQfInhoLXmCKB3ZfPu9uKUQb1EyDxqEiEQqWd9IW_E/com.github.vinceliuice.Layan.tar.gz</payload>
+  <tags>theme,unix,gplv3,kde,plasma,original-product,plasma##majorversion=6,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="722">
+  <name>Ant-Dark KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1464332</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>100945</downloads>
+  <installedfile>/home/ph/.local/share/plasma/look-and-feel/Ant-Dark/</installedfile>
+  <id>1464332</id>
+  <releasedate>2025-12-26</releasedate>
+  <summary>&lt;p>A dark theme with awesome vibrant colors for plasma&lt;br />&lt;br />For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md">here&lt;/a>.&lt;br />&lt;br />&lt;b>Suggested setings:&lt;/b> &lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464317">Ant-Dark Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464279">Ant-Dark Konsole theme&lt;/a>&lt;br />&lt;br />&lt;b>This theme will install as dependencies:&lt;/b>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464321/">Ant-Dark Plasma theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464309/">Ant-Dark Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464285/">Ant-Dark colorscheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1464300/">Ant-Dark sddm&lt;/a>&lt;br />&lt;br />&lt;b>Important&lt;/b>&lt;br />&lt;br />&lt;b> Wallpaper in screenshot &lt;a href="https://www.pexels.com/photo/foamy-wave-of-ocean-washing-rocky-stone-5525886/">here&lt;/a>&lt;/b>&lt;br />&lt;br />&lt;b>Icons showed &lt;a href="https://drive.google.com/file/d/1-lyzP0rAqc3ycprxyOYF0YvJQ0M0vCfv/view?usp=sharing">here&lt;/a> &lt;/b>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1464332/44d806b23f058b59797afc74dc88d07daafc08ec3ec18bf10b7254e13c6fd0c80e9a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1464332/44d806b23f058b59797afc74dc88d07daafc08ec3ec18bf10b7254e13c6fd0c80e9a.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyNjM0MDgyNSwibyI6IjEiLCJzIjoiZTQ0M2I0NjJjMmVmMzljYjc2OTQxYjk4MTg0YmI4YjVlODA0MjMyNTExMzc3NzRjNmVlY2U5OTUzNjIyOGMyZDRlNjIwZTZhYmE4YWUwYmY1OTc4ZDJjOGVmZGZiMWZkM2EyYzdmZTE3MTJmZDcxNTFmMDZlMjFkMjc4ZTYxMWMiLCJ0IjoxNzY2NzY1NTExLCJzdGZwIjpudWxsLCJzdGlwIjoiODYuMTAzLjUxLjM3In0.WGACbJujIfttZotgfp6ddgUTU42hXj_IL08kHoeppfI/Ant-Dark.tar.xz</payload>
+  <tags>gplv3,plasma,plasma##majorversion=6,kde,linux,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

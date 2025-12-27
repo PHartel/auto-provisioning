@@ -19,6 +19,7 @@ echo "LANG=$LOCALE" > /etc/locale.conf
 echo "$HOSTNAME" > /etc/hostname
 
 pacman -S --needed --noconfirm $(cat /root/packages.txt)
+pacman -R --noconfirm plasma-welcome drkonqi plasma-systemmonitor flatpak-kcm flatpak
 
 useradd -m -G wheel $USERNAME
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers

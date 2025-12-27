@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="719">
+  <name>Geometry Change</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>fptr</author>
+  <homepage>https://store.kde.org/p/2136283</homepage>
+  <licence></licence>
+  <version>1.5</version>
+  <rating>72</rating>
+  <downloads>22290</downloads>
+  <installedfile>/home/ph/.local/share/kwin/effects/kwin4_effect_geometry_change/</installedfile>
+  <id>2136283</id>
+  <releasedate>2025-05-14</releasedate>
+  <summary>&lt;p>Animation for windows moved or resized by programs or scripts&lt;br />&lt;br />Plasma 5 version here: https://www.pling.com/p/2026302/&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/71/57/04/2136283/recording.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/71/57/04/2136283/recording.gif</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0NzI1MDM4NiwibyI6IjEiLCJzIjoiMjE1MTRiMWZhOTU1YzMyNjQzNTVlYmRjMGY5ZDBiNzI1Y2I0ZmY5YjRlYjNiNTA5NTE5YzAwNjc5YTVjZjc4OTkwZWJkYjViNmE0ODZkMGQ4ODFhNGFlN2U5ZjNlOTk3MWYyYjFhMzlhYjFmMWU5NDdiNTYyZjZlZGY4MWUwNzciLCJ0IjoxNzY2MTkxNjQ3LCJzdGZwIjpudWxsLCJzdGlwIjoiOTIuMjA4LjEwOC4yMDIifQ.X9YmJRYwaFQ0Xk8iE-_IvmzoOn4RfS7BML6anxXGwrQ/kwin4-effect-geometry-change-1-5.tar.gz</payload>
+  <tags>original-product,unix,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
