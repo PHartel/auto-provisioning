@@ -5,3 +5,6 @@ plasma
 libva
 sddm
 konsole
+lua 
+conky
+cairo
