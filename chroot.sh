@@ -24,6 +24,11 @@ useradd -m -G wheel $USERNAME
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
 passwd
 passwd $USERNAME
+cp -r .local /mnt/root/home/$USERNAME/
+chown -R $USERNAME:$USERNAME /mnt/root/home/$USERNAME/.local
+
+cp -r .local /mnt/root/home/$USERNAME/
+chown -R $USERNAME:$USERNAME /mnt/root/home/$USERNAME/.local
 
 systemctl enable NetworkManager
 nmcli con add type ethernet ifname $NET_IFACE con-name static-enp3s0 \
