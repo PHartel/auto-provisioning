@@ -7,7 +7,8 @@ setfont $FONT
 pacstrap /mnt base linux linux-firmware sudo git networkmanager
 genfstab -U /mnt >> /mnt/etc/fstab
 
-cp chroot.sh /mnt/root/
-cp config.sh /mnt/root/
-cp packages.txt /mnt/root/
+# Copy all in /opt/setup to the new system and create folder if not exists
+mkdir -p /mnt/root/opt/setup
+cp -r ./ /mnt/root/opt/setup
+
 echo "Base system installation complete."

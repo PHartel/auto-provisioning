@@ -1,35 +1,13 @@
 #!/bin/bash
-source /root/config.sh
-touch /etc/vconsole.conf
-mkinitcpio -P
+source config.sh
 
-ln -sf /usr/share/zoneinfo/$TIMEZONE /etc/localtime
-hwclock --systohc
-
-cat <<EOF > /etc/vconsole.conf
-KEYMAP=$KEYMAP
-FONT=$FONT
-EOF
-
-
-sed -i "s/#$LOCALE/$LOCALE/" /etc/locale.gen
-locale-gen
-echo "LANG=$LOCALE" > /etc/locale.conf
+bash locales.sh
 
 echo "$HOSTNAME" > /etc/hostname
 
-pacman -S --needed --noconfirm $(cat /root/packages.txt)
-pacman -R --noconfirm plasma-welcome drkonqi plasma-systemmonitor flatpak-kcm flatpak
+bash packages.sh
 
-useradd -m -G wheel $USERNAME
-echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
-passwd
-passwd $USERNAME
-cp -r .local /mnt/root/home/$USERNAME/
-chown -R $USERNAME:$USERNAME /mnt/root/home/$USERNAME/.local
-
-cp -r .local /mnt/root/home/$USERNAME/
-chown -R $USERNAME:$USERNAME /mnt/root/home/$USERNAME/.local
+bash user-management.sh
 
 systemctl enable NetworkManager
 nmcli con add type ethernet ifname $NET_IFACE con-name static-enp3s0 \

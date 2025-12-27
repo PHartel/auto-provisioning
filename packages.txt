@@ -4,3 +4,4 @@ wayland
 plasma
 libva
 sddm
+konsole
